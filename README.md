@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://github.com/Meet-student/Meet-student/blob/master/assets/image/code.gif">
+<img align="right" width="250" height="250" src="https://github.com/Meet-student/Meet-student/blob/master/assets/image/code.gif">
 
 ### Hi, there I'm [Meet!](https://github.com/Meet-student/Meet-student) 👋.
 

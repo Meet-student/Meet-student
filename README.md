@@ -3,7 +3,7 @@
     <!-- Header -->
     <tr>
       <td colspan="3" align="left">
-       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E55F6&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi!++there+I'm+Meet.;%F0%9F%9B%A0%EF%B8%8F+An+Open+Source+Contributor;%F0%9F%93%9A+I%E2%80%99m+currently+learning+%7C+Web+development+%7C+App+Development+%7C+Server+development;%E2%9D%93+Ask+me+about+anything.+I+will+try+to+help+you+as+much+as+I+can.;%F0%9F%8E%A4+Quote%3A+%22Front-end+means+to+be+at+the+front+of+the+user.%22" alt="Typing SVG" />
+       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E55F6&vCenter=true&size=16&width=1000&lines=%F0%9F%91%8B+Hi!++there+I'm+Meet.;%F0%9F%9B%A0%EF%B8%8F+An+Open+Source+Contributor;%F0%9F%93%9A+I%E2%80%99m+currently+learning+%7C+Web+development+%7C+App+Development+%7C+Server+development;%E2%9D%93+Ask+me+about+anything.+I+will+try+to+help+you+as+much+as+I+can.;%F0%9F%8E%A4+Quote%3A+%22Front-end+means+to+be+at+the+front+of+the+user.%22" alt="Typing SVG" />
       </td>
     </tr>
     <!-- 个人信息 -->

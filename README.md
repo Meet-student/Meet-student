@@ -9,9 +9,6 @@
     <!-- 个人信息 -->
     <tr>
       <td align="left">
-         <div style="margin: 10px 0;">
-         <b >📫 Reach me: </b>
-         </div>
         <ul>
         <li>📱 WeChat  Meet-Yyyou </li>
           <li>
@@ -22,15 +19,14 @@
         </ul>
       </td>
       <td align="left" width="40%">
-        <div style="margin: 10px 0;"><b> 🏗️ Learning:</b></div>
         <code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
       </td>
-      <td align="center" width="150px">
-        <img src="https://github.com/Meet-student/Meet-student/raw/master/assets/image/we.jpg" width="150px" />
+      <td align="center" width="200px">
+        <img src="https://github.com/Meet-student/Meet-student/raw/master/assets/image/we.jpg" width="200px" />
       </td>
     </tr>
     <!-- repo -->

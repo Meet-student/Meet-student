@@ -26,7 +26,7 @@
         <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
       </td>
       <td align="center" width="150px">
-        <img src="https://github.com/Meet-student/Meet-student/raw/master/assets/image/we.jpg" width="150px" />
+        <img src="https://raw.githubusercontent.com/Meet-student/Meet-student/master/assets/image/we.jpg" width="150px" />
       </td>
     </tr>
   </table>

@@ -30,17 +30,9 @@
       </td>
     </tr>
     <!-- repo -->
-    <tr>
-      <td colspan="3" align="left">
-           <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=meet-student&theme=github&height=250" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=meet-student&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-student&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" alt="遇见的 github 活跃图" />
-  </picture>
-      </td>
-    </tr>
+    <!-- <tr>
+      <td colspan="3" align="left"> </td>
+    </tr> -->
      <!-- <tr>
       <td colspan="3" align="left">
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -68,4 +60,11 @@
 </td> -->
 </tr>
   </table>
+     <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=meet-student&theme=github&height=250" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=meet-student&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-student&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" alt="遇见的 github 活跃图" />
+  </picture>
 </div>

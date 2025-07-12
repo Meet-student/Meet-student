@@ -13,7 +13,7 @@
         <li>📱 WeChat  Meet-Yyyou </li>
           <li>
             🌸 Follow me on
-            <a target="_blank" href="https://juejin.cn/user/3544481220800296">掘金</a>
+            <a target="_blank" href="https://juejin.cn/user/3544481220800296">掘金</a>、<a target="_blank" href="https://x.com/Meet_ProX">X</a>、<a target="_blank" href="https://www.linkedin.com/in/%E8%A7%81-%E9%81%87-a377b3374/">LinkedIn</a>
           </li>
           <li>💬 Ping me by <a target="_blank" href="mailto:1875694521@qq.com">Email</a></li>
         </ul>
